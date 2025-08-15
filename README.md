@@ -3,8 +3,8 @@ A fun Simon Game built with HTML, CSS, and JavaScript — featuring flashing col
 # 🎯 Simon Game – Test Your Memory!
 
 A fun and interactive **Simon Game** built with HTML, CSS, and Vanilla JavaScript.  
-Challenge your memory by repeating an ever-growing sequence of colors & sounds.  
-Features smooth animations, sound effects, and a **High Score tracker**.
+Challenge your memory by repeating an ever-growing sequence of colors.
+Features **High Score tracker**.
 
 ---
 Screentshot
@@ -14,8 +14,7 @@ Screentshot
 ---
 
 ## ✨ Features
-- 🎨 4 colorful buttons with smooth flash animations  
-- 🔊 Unique sound for each button press  
+- 🎨 4 colorful buttons with smooth flash animations   
 - 🧠 Sequence memory challenge – gets harder each level  
 - 🏆 High Score tracking across multiple games  
 - ⚡ Built with **pure HTML, CSS, JavaScript** – no frameworks required
@@ -24,7 +23,7 @@ Screentshot
 
 ## 🎮 How to Play
 1. Press any key to start the game.
-2. Watch the sequence of flashes and sounds.
+2. Watch the sequence of flashes.
 3. Repeat the sequence by clicking the buttons in the same order.
 4. The sequence gets longer each round – try to beat your high score!
 5. Game over if you click the wrong button.
@@ -41,4 +40,11 @@ simon-game/
 ├── index.html      # Main game HTML
 ├── miniProjects.css # Styles for the game
 ├── miniProjects.js  # Game logic
+
+## 🔮 Future Improvements
+- Add more immersive **sound effects** (background music, level-up chimes, game-over tones)
+- Smooth **button animations** (bounce, glow, or ripple effects)
+- Add difficulty levels (Easy, Medium, Hard)
+- Mobile-friendly responsive layout
+- Animated background for extra visual appeal
 
